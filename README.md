@@ -1,6 +1,6 @@
 # elm-pages-starter
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dillonkearns/elm-pages-starter)
+![https://www.netlify.com/img/deploy/button.svg](https://app.netlify.com/start/deploy?repository=https://github.com/dillonkearns/elm-pages-netlify-cms&stack=cms)
 
 This is an example repo to get you up and running with `elm-pages`.
 
